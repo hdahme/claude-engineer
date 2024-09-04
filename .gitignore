@@ -1,0 +1,4 @@
+.env
+*/__pycache__
+code_execution_env/
+_generations/*

@@ -114,6 +114,7 @@ Once started, you can interact with Claude Engineer by typing your queries or co
 - "Analyze this image and describe its contents"
 - "Execute this Python code and analyze the results"
 - "Read multiple files: file1.py, file2.py, file3.py"
+- "Generate the scaffolding for a React app resembling Twitter using Next.js."
 
 Special commands:
 - Type 'exit' to end the conversation and close the application.
